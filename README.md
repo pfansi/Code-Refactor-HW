@@ -5,3 +5,6 @@ We will be refactoring the website code of a Marketing agency to make it clean a
 
 ## Git Repository
 We will create a git repository folder that will host the finish website. The Repository will be name Code-Refactor-HM 
+
+## Head Element
+I will give a more descriptive title for search engine optization purpose.
