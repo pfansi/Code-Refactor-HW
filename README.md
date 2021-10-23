@@ -17,6 +17,7 @@ We will create a git repository folder that will host the finish website. The Re
 - Added a semantic header element to portray the top of the page
 
 * Added a semantic nav element to hold navigation button.
+* Added semantic elements to the main content - main , article and section.
 
 ## Screenshots
 
