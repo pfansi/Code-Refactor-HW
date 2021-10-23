@@ -16,17 +16,17 @@ We will create a git repository folder that will host the finish website. The Re
 
 - Added a semantic header element to portray the top of the page
 
-* Added a semantic nav element to hold navigation button.
+- Added a semantic nav element to hold navigation button.
 
-* Added semantic elements to the main content - main , article and section.
+- Added semantic elements to the main content - main , article and section.
 
-* added a footer element to the bottom page
+- added a footer element to the bottom page
 
-* added alt attribute to all the images and icons to describe the images in case they do not show up on screen.
+- added alt attribute to all the images and icons to describe the images in case they do not show up on screen.
 
 ## Screenshots
 
-[Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./assets/image-1.png)
+- few styling issue was encounted during the refactoring but we managed to fix them [main site](./assets/images/main-site.jpg)
 
 ## Link to the deploy application
 
