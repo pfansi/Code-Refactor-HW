@@ -22,6 +22,8 @@ We will create a git repository folder that will host the finish website. The Re
 
 * added a footer element to the bottom page
 
+* added alt attribute to all the images and icons to describe the images in case they do not show up on screen.
+
 ## Screenshots
 
 [Box 2 is positioned in the center of Square 1, while in Square 2, Box 2 is positioned outside the square.](./assets/image-1.png)
