@@ -14,7 +14,9 @@ We will create a git repository folder that will host the finish website. The Re
 
 - added meta description to optimize the page title even more.
 
--
+- Added a semantic header element to portray the top of the page
+
+* Added a semantic nav element to hold navigation button.
 
 ## Screenshots
 
