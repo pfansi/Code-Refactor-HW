@@ -1,4 +1,5 @@
 * {
+  /* This tell the browser that all the elements will shrink into the screen */
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -8,6 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* adding style on the navigation bar and the logo*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -21,10 +23,12 @@ body {
   font-size: 48px;
 }
 
+/* partially adding an additional colour on the logo*/
 .header h1 .seo {
   color: #d9dcd6;
 }
 
+/* adding style to the nav bar and specifying different ranges of font*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -37,6 +41,7 @@ body {
   list-style-type: none;
 }
 
+/* This style the navigation list horizontally. */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -51,6 +56,7 @@ p {
   font-size: 16px;
 }
 
+/* this position the header image nicely centre.*/
 .hero {
   height: 800px;
   width: 100%;
@@ -60,6 +66,14 @@ p {
   background-position: center;
 }
 
+/* this style the left section of the site to a larger portion of the page*/
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+/*styling the image in the article*/
 .float-left {
   float: left;
   margin-right: 25px;
@@ -70,12 +84,7 @@ p {
   margin-left: 25px;
 }
 
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
+/* styling and positionning the aside section on the right*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -189,6 +198,7 @@ p {
   font-size: 36px;
 }
 
+/* centering the footer content */
 .footer {
   padding: 30px;
   clear: both;

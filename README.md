@@ -24,6 +24,10 @@ We will create a git repository folder that will host the finish website. The Re
 
 - added alt attribute to all the images and icons to describe the images in case they do not show up on screen.
 
+* Changed the potition of the class float-left and float-right to go below the class content on the style sheet.
+
+* added comment on the style sheet to describe the how the creativity have been achived
+
 ## Screenshots
 
 - few styling issue was encounted during the refactoring but we managed to fix them [main site](./assets/images/main-site.jpg)
