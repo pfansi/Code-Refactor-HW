@@ -27,6 +27,7 @@ We will create a git repository folder that will host the finish website. The Re
 * Changed the potition of the class float-left and float-right to go below the class content on the style sheet.
 
 * added comment on the style sheet to describe the how the creativity have been achived
+* Git Hub page for the site have been created and it is ready to view on github.
 
 ## Screenshots
 
@@ -34,4 +35,8 @@ We will create a git repository folder that will host the finish website. The Re
 
 ## Link to the deploy application
 
+https://pfansi.github.io/Code-Refactor-HW/
+
 ## link to the git hub repository
+
+https://github.com/pfansi/Code-Refactor-HW
