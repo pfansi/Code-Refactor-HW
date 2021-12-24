@@ -31,7 +31,7 @@ We will create a git repository folder that will host the finish website. The Re
 
 ## Screenshots
 
-- few styling issue was encounted during the refactoring but we managed to fix them ![main site](./assets/images/main-site.jpg)
+- few styling issue was encounted during the refactoring but we managed to fix them ![main site](./assets/images/main-site.JPG)
 
 ## Link to the deploy application
 
